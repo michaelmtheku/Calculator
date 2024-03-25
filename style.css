@@ -81,13 +81,13 @@ body {
     padding: 10px;
     margin: 10px 4px 10px 0;
     cursor: pointer;
-    color: white;
+    color: darkgoldenrod;
     background-color: black;
     transition: border-color .2s ease-in-out, background-color .2s, box-shadow .2s;
   }
   
   .numbers div:hover {
-    background-color: #f1f1f1;
+    background-color: darkgoldenrod;
     color: black;
     -webkit-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
     box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
